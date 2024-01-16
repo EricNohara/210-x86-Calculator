@@ -14,4 +14,8 @@
 # Installation Guide:
 Clone this repository locally.
 
-git clone 
+git clone https://github.com/EricNohara/x86-Calculator.git
+
+## Demo Image:
+![x86_Calculator PNG](https://github.com/EricNohara/x86-Calculator/assets/123284198/20c6c796-70dd-4f1d-99dd-a24c994d40e6)
+
